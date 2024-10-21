@@ -1,0 +1,10 @@
+E:\c# prog\lect (3)\lect 4.1\bin\Debug\lect 4.1.exe.config
+E:\c# prog\lect (3)\lect 4.1\bin\Debug\lect 4.1.exe
+E:\c# prog\lect (3)\lect 4.1\bin\Debug\lect 4.1.pdb
+E:\c# prog\lect (3)\lect 4.1\obj\Debug\lect 4.1.csprojAssemblyReference.cache
+E:\c# prog\lect (3)\lect 4.1\obj\Debug\lect_4._1.Form1.resources
+E:\c# prog\lect (3)\lect 4.1\obj\Debug\lect_4._1.Properties.Resources.resources
+E:\c# prog\lect (3)\lect 4.1\obj\Debug\lect 4.1.csproj.GenerateResource.cache
+E:\c# prog\lect (3)\lect 4.1\obj\Debug\lect 4.1.csproj.CoreCompileInputs.cache
+E:\c# prog\lect (3)\lect 4.1\obj\Debug\lect 4.1.exe
+E:\c# prog\lect (3)\lect 4.1\obj\Debug\lect 4.1.pdb
