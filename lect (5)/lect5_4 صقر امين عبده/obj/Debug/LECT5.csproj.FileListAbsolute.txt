@@ -1,0 +1,10 @@
+E:\c# prog\lect_7_lab\LECT5\bin\Debug\LECT5.exe.config
+E:\c# prog\lect_7_lab\LECT5\bin\Debug\LECT5.exe
+E:\c# prog\lect_7_lab\LECT5\bin\Debug\LECT5.pdb
+E:\c# prog\lect_7_lab\LECT5\obj\Debug\LECT5.csprojAssemblyReference.cache
+E:\c# prog\lect_7_lab\LECT5\obj\Debug\LECT5.Form1.resources
+E:\c# prog\lect_7_lab\LECT5\obj\Debug\LECT5.Properties.Resources.resources
+E:\c# prog\lect_7_lab\LECT5\obj\Debug\LECT5.csproj.GenerateResource.cache
+E:\c# prog\lect_7_lab\LECT5\obj\Debug\LECT5.csproj.CoreCompileInputs.cache
+E:\c# prog\lect_7_lab\LECT5\obj\Debug\LECT5.exe
+E:\c# prog\lect_7_lab\LECT5\obj\Debug\LECT5.pdb
