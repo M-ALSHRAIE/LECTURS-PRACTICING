@@ -1,0 +1,10 @@
+E:\c# prog\LECT (6)\lect6.3_معتصم عبده حميد\bin\Debug\lect6.3_معتصم عبده حميد.exe.config
+E:\c# prog\LECT (6)\lect6.3_معتصم عبده حميد\bin\Debug\lect6.3_معتصم عبده حميد.exe
+E:\c# prog\LECT (6)\lect6.3_معتصم عبده حميد\bin\Debug\lect6.3_معتصم عبده حميد.pdb
+E:\c# prog\LECT (6)\lect6.3_معتصم عبده حميد\obj\Debug\lect6.3_معتصم عبده حميد.csprojAssemblyReference.cache
+E:\c# prog\LECT (6)\lect6.3_معتصم عبده حميد\obj\Debug\lect6._3_معتصم_عبده_حميد.Form1.resources
+E:\c# prog\LECT (6)\lect6.3_معتصم عبده حميد\obj\Debug\lect6._3_معتصم_عبده_حميد.Properties.Resources.resources
+E:\c# prog\LECT (6)\lect6.3_معتصم عبده حميد\obj\Debug\lect6.3_معتصم عبده حميد.csproj.GenerateResource.cache
+E:\c# prog\LECT (6)\lect6.3_معتصم عبده حميد\obj\Debug\lect6.3_معتصم عبده حميد.csproj.CoreCompileInputs.cache
+E:\c# prog\LECT (6)\lect6.3_معتصم عبده حميد\obj\Debug\lect6.3_معتصم عبده حميد.exe
+E:\c# prog\LECT (6)\lect6.3_معتصم عبده حميد\obj\Debug\lect6.3_معتصم عبده حميد.pdb
