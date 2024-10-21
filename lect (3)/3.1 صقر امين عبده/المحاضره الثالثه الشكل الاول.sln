@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "المحاضره الثالثه الشكل الاول", "المحاضره الثالثه الشكل الاول.csproj", "{935CFEE8-5051-4EBC-A5B3-4A7511DF1C46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{935CFEE8-5051-4EBC-A5B3-4A7511DF1C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935CFEE8-5051-4EBC-A5B3-4A7511DF1C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935CFEE8-5051-4EBC-A5B3-4A7511DF1C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935CFEE8-5051-4EBC-A5B3-4A7511DF1C46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38E9FBA0-1DD5-493C-A5DB-860F2BB97D49}
+	EndGlobalSection
+EndGlobal

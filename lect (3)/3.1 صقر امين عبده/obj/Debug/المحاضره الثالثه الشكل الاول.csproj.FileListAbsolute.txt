@@ -1,0 +1,16 @@
+C:\Users\ALFASHEL\source\repos\المحاضره الثالثه الشكل الاول\obj\Debug\المحاضره الثالثه الشكل الاول.csprojAssemblyReference.cache
+C:\Users\ALFASHEL\source\repos\المحاضره الثالثه الشكل الاول\obj\Debug\المحاضره_الثالثه_الشكل_الاول.UserControl1.resources
+C:\Users\ALFASHEL\source\repos\المحاضره الثالثه الشكل الاول\obj\Debug\المحاضره الثالثه الشكل الاول.csproj.GenerateResource.cache
+C:\Users\ALFASHEL\source\repos\المحاضره الثالثه الشكل الاول\obj\Debug\المحاضره الثالثه الشكل الاول.csproj.CoreCompileInputs.cache
+C:\Users\ALFASHEL\source\repos\المحاضره الثالثه الشكل الاول\bin\Debug\المحاضره الثالثه الشكل الاول.dll
+C:\Users\ALFASHEL\source\repos\المحاضره الثالثه الشكل الاول\bin\Debug\المحاضره الثالثه الشكل الاول.pdb
+C:\Users\ALFASHEL\source\repos\المحاضره الثالثه الشكل الاول\obj\Debug\المحاضره الثالثه الشكل الاول.dll
+C:\Users\ALFASHEL\source\repos\المحاضره الثالثه الشكل الاول\obj\Debug\المحاضره الثالثه الشكل الاول.pdb
+E:\c# prog\lect (3)\المحاضره الثالثه الشكل الاول\bin\Debug\المحاضره الثالثه الشكل الاول.dll
+E:\c# prog\lect (3)\المحاضره الثالثه الشكل الاول\bin\Debug\المحاضره الثالثه الشكل الاول.pdb
+E:\c# prog\lect (3)\المحاضره الثالثه الشكل الاول\obj\Debug\المحاضره الثالثه الشكل الاول.csprojAssemblyReference.cache
+E:\c# prog\lect (3)\المحاضره الثالثه الشكل الاول\obj\Debug\المحاضره_الثالثه_الشكل_الاول.UserControl1.resources
+E:\c# prog\lect (3)\المحاضره الثالثه الشكل الاول\obj\Debug\المحاضره الثالثه الشكل الاول.csproj.GenerateResource.cache
+E:\c# prog\lect (3)\المحاضره الثالثه الشكل الاول\obj\Debug\المحاضره الثالثه الشكل الاول.csproj.CoreCompileInputs.cache
+E:\c# prog\lect (3)\المحاضره الثالثه الشكل الاول\obj\Debug\المحاضره الثالثه الشكل الاول.dll
+E:\c# prog\lect (3)\المحاضره الثالثه الشكل الاول\obj\Debug\المحاضره الثالثه الشكل الاول.pdb

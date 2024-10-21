@@ -1,0 +1,10 @@
+E:\c# prog\lect (3)\lect 3.3 معتصم عبده حميد\obj\Debug\lect 3.3 معتصم عبده حميد.csprojAssemblyReference.cache
+E:\c# prog\lect (3)\lect 3.3 معتصم عبده حميد\obj\Debug\lect_3._3_معتصم_عبده_حميد.Form1.resources
+E:\c# prog\lect (3)\lect 3.3 معتصم عبده حميد\obj\Debug\lect_3._3_معتصم_عبده_حميد.Properties.Resources.resources
+E:\c# prog\lect (3)\lect 3.3 معتصم عبده حميد\obj\Debug\lect 3.3 معتصم عبده حميد.csproj.GenerateResource.cache
+E:\c# prog\lect (3)\lect 3.3 معتصم عبده حميد\obj\Debug\lect 3.3 معتصم عبده حميد.csproj.CoreCompileInputs.cache
+E:\c# prog\lect (3)\lect 3.3 معتصم عبده حميد\bin\Debug\lect 3.3 معتصم عبده حميد.exe.config
+E:\c# prog\lect (3)\lect 3.3 معتصم عبده حميد\bin\Debug\lect 3.3 معتصم عبده حميد.exe
+E:\c# prog\lect (3)\lect 3.3 معتصم عبده حميد\bin\Debug\lect 3.3 معتصم عبده حميد.pdb
+E:\c# prog\lect (3)\lect 3.3 معتصم عبده حميد\obj\Debug\lect 3.3 معتصم عبده حميد.exe
+E:\c# prog\lect (3)\lect 3.3 معتصم عبده حميد\obj\Debug\lect 3.3 معتصم عبده حميد.pdb
