@@ -1,0 +1,10 @@
+E:\c# prog\lect (2)\lect 2.2 معتصم عبده حميد\bin\Debug\lect 2.2 معتصم عبده حميد.exe.config
+E:\c# prog\lect (2)\lect 2.2 معتصم عبده حميد\bin\Debug\lect 2.2 معتصم عبده حميد.exe
+E:\c# prog\lect (2)\lect 2.2 معتصم عبده حميد\bin\Debug\lect 2.2 معتصم عبده حميد.pdb
+E:\c# prog\lect (2)\lect 2.2 معتصم عبده حميد\obj\Debug\lect 2.2 معتصم عبده حميد.csprojAssemblyReference.cache
+E:\c# prog\lect (2)\lect 2.2 معتصم عبده حميد\obj\Debug\lect_2._2_معتصم_عبده_حميد.Form1.resources
+E:\c# prog\lect (2)\lect 2.2 معتصم عبده حميد\obj\Debug\lect_2._2_معتصم_عبده_حميد.Properties.Resources.resources
+E:\c# prog\lect (2)\lect 2.2 معتصم عبده حميد\obj\Debug\lect 2.2 معتصم عبده حميد.csproj.GenerateResource.cache
+E:\c# prog\lect (2)\lect 2.2 معتصم عبده حميد\obj\Debug\lect 2.2 معتصم عبده حميد.csproj.CoreCompileInputs.cache
+E:\c# prog\lect (2)\lect 2.2 معتصم عبده حميد\obj\Debug\lect 2.2 معتصم عبده حميد.exe
+E:\c# prog\lect (2)\lect 2.2 معتصم عبده حميد\obj\Debug\lect 2.2 معتصم عبده حميد.pdb
