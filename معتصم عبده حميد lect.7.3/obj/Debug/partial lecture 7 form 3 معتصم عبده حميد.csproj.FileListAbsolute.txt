@@ -1,0 +1,29 @@
+C:\Users\USER\source\repos\partial lecture 7 form 3 معتصم سعيد محمد احمد\bin\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.exe.config
+C:\Users\USER\source\repos\partial lecture 7 form 3 معتصم سعيد محمد احمد\bin\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.exe
+C:\Users\USER\source\repos\partial lecture 7 form 3 معتصم سعيد محمد احمد\bin\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.pdb
+C:\Users\USER\source\repos\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_7_form_3_معتصم_سعيد_محمد_احمد.Form1.resources
+C:\Users\USER\source\repos\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_7_form_3_معتصم_سعيد_محمد_احمد.Properties.Resources.resources
+C:\Users\USER\source\repos\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.exe
+C:\Users\USER\source\repos\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.pdb
+C:\Users\USER\source\repos\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_7_form_3_معتصم_سعيد_محمد_احمد.add.resources
+C:\Users\USER\source\repos\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_7_form_3_معتصم_سعيد_محمد_احمد.div.resources
+C:\Users\USER\source\repos\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_7_form_3_معتصم_سعيد_محمد_احمد.mult.resources
+C:\Users\USER\source\repos\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_7_form_3_معتصم_سعيد_محمد_احمد.sub.resources
+E:\c# prog\عملي\motasim-saeed-mohammed-ahmed-husain-main\motasim saeed mohammed\partial lecture 7 form 3 معتصم سعيد محمد احمد\bin\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.exe.config
+E:\c# prog\عملي\motasim-saeed-mohammed-ahmed-husain-main\motasim saeed mohammed\partial lecture 7 form 3 معتصم سعيد محمد احمد\bin\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.exe
+E:\c# prog\عملي\motasim-saeed-mohammed-ahmed-husain-main\motasim saeed mohammed\partial lecture 7 form 3 معتصم سعيد محمد احمد\bin\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.pdb
+E:\c# prog\عملي\motasim-saeed-mohammed-ahmed-husain-main\motasim saeed mohammed\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.csprojAssemblyReference.cache
+E:\c# prog\عملي\motasim-saeed-mohammed-ahmed-husain-main\motasim saeed mohammed\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_7_form_3_معتصم_سعيد_محمد_احمد.add.resources
+E:\c# prog\عملي\motasim-saeed-mohammed-ahmed-husain-main\motasim saeed mohammed\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_7_form_3_معتصم_سعيد_محمد_احمد.div.resources
+E:\c# prog\عملي\motasim-saeed-mohammed-ahmed-husain-main\motasim saeed mohammed\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_7_form_3_معتصم_سعيد_محمد_احمد.Form1.resources
+E:\c# prog\عملي\motasim-saeed-mohammed-ahmed-husain-main\motasim saeed mohammed\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_7_form_3_معتصم_سعيد_محمد_احمد.mult.resources
+E:\c# prog\عملي\motasim-saeed-mohammed-ahmed-husain-main\motasim saeed mohammed\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_7_form_3_معتصم_سعيد_محمد_احمد.Properties.Resources.resources
+E:\c# prog\عملي\motasim-saeed-mohammed-ahmed-husain-main\motasim saeed mohammed\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_7_form_3_معتصم_سعيد_محمد_احمد.sub.resources
+E:\c# prog\عملي\motasim-saeed-mohammed-ahmed-husain-main\motasim saeed mohammed\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.csproj.GenerateResource.cache
+E:\c# prog\عملي\motasim-saeed-mohammed-ahmed-husain-main\motasim saeed mohammed\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.csproj.CoreCompileInputs.cache
+E:\c# prog\عملي\motasim-saeed-mohammed-ahmed-husain-main\motasim saeed mohammed\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.exe
+E:\c# prog\عملي\motasim-saeed-mohammed-ahmed-husain-main\motasim saeed mohammed\partial lecture 7 form 3 معتصم سعيد محمد احمد\obj\Debug\partial lecture 7 form 3 معتصم سعيد محمد احمد.pdb
