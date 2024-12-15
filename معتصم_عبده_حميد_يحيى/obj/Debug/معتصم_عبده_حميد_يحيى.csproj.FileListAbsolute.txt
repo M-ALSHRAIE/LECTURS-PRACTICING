@@ -1,0 +1,13 @@
+C:\Users\ALFASHEL\Desktop\معتصم_عبده_حميد_يحيى\bin\Debug\معتصم_عبده_حميد_يحيى.exe.config
+C:\Users\ALFASHEL\Desktop\معتصم_عبده_حميد_يحيى\bin\Debug\معتصم_عبده_حميد_يحيى.exe
+C:\Users\ALFASHEL\Desktop\معتصم_عبده_حميد_يحيى\bin\Debug\معتصم_عبده_حميد_يحيى.pdb
+C:\Users\ALFASHEL\Desktop\معتصم_عبده_حميد_يحيى\obj\Debug\معتصم_عبده_حميد_يحيى.csprojAssemblyReference.cache
+C:\Users\ALFASHEL\Desktop\معتصم_عبده_حميد_يحيى\obj\Debug\معتصم_عبده_حميد_يحيى.Properties.Resources.resources
+C:\Users\ALFASHEL\Desktop\معتصم_عبده_حميد_يحيى\obj\Debug\معتصم_عبده_حميد_يحيى.csproj.GenerateResource.cache
+C:\Users\ALFASHEL\Desktop\معتصم_عبده_حميد_يحيى\obj\Debug\معتصم_عبده_حميد_يحيى.csproj.CoreCompileInputs.cache
+C:\Users\ALFASHEL\Desktop\معتصم_عبده_حميد_يحيى\obj\Debug\معتصم_عبده_حميد_يحيى.exe
+C:\Users\ALFASHEL\Desktop\معتصم_عبده_حميد_يحيى\obj\Debug\معتصم_عبده_حميد_يحيى.pdb
+C:\Users\ALFASHEL\Desktop\معتصم_عبده_حميد_يحيى\obj\Debug\معتصم_عبده_حميد_الشراعي.Form1.resources
+C:\Users\ALFASHEL\Desktop\معتصم_عبده_حميد_يحيى\obj\Debug\معتصم_عبده_حميد_الشراعي.Form2.resources
+C:\Users\ALFASHEL\Desktop\معتصم_عبده_حميد_يحيى\obj\Debug\معتصم_عبده_حميد_الشراعي.Form3.resources
+C:\Users\ALFASHEL\Desktop\معتصم_عبده_حميد_يحيى\obj\Debug\معتصم_عبده_حميد_الشراعي.Form4.resources
