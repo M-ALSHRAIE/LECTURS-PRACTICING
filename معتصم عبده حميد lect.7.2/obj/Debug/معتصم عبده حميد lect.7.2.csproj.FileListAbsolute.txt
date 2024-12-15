@@ -1,0 +1,10 @@
+E:\c# prog\lect (7)\معتصم عبده حميد lect.7.2\bin\Debug\معتصم عبده حميد lect.7.2.exe.config
+E:\c# prog\lect (7)\معتصم عبده حميد lect.7.2\bin\Debug\معتصم عبده حميد lect.7.2.exe
+E:\c# prog\lect (7)\معتصم عبده حميد lect.7.2\bin\Debug\معتصم عبده حميد lect.7.2.pdb
+E:\c# prog\lect (7)\معتصم عبده حميد lect.7.2\obj\Debug\معتصم عبده حميد lect.7.2.csprojAssemblyReference.cache
+E:\c# prog\lect (7)\معتصم عبده حميد lect.7.2\obj\Debug\معتصم_عبده_حميد_lect._7._2.Form1.resources
+E:\c# prog\lect (7)\معتصم عبده حميد lect.7.2\obj\Debug\معتصم_عبده_حميد_lect._7._2.Properties.Resources.resources
+E:\c# prog\lect (7)\معتصم عبده حميد lect.7.2\obj\Debug\معتصم عبده حميد lect.7.2.csproj.GenerateResource.cache
+E:\c# prog\lect (7)\معتصم عبده حميد lect.7.2\obj\Debug\معتصم عبده حميد lect.7.2.csproj.CoreCompileInputs.cache
+E:\c# prog\lect (7)\معتصم عبده حميد lect.7.2\obj\Debug\معتصم عبده حميد lect.7.2.exe
+E:\c# prog\lect (7)\معتصم عبده حميد lect.7.2\obj\Debug\معتصم عبده حميد lect.7.2.pdb
