@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\partial lectur 9 form 2 معتصم سعيد محمد احمد\partial lectur 9 form 2 معتصم سعيد محمد احمد\bin\Debug\partial lectur 9 form 2 معتصم سعيد محمد احمد.exe.config
+C:\Users\USER\source\repos\partial lectur 9 form 2 معتصم سعيد محمد احمد\partial lectur 9 form 2 معتصم سعيد محمد احمد\bin\Debug\partial lectur 9 form 2 معتصم سعيد محمد احمد.exe
+C:\Users\USER\source\repos\partial lectur 9 form 2 معتصم سعيد محمد احمد\partial lectur 9 form 2 معتصم سعيد محمد احمد\bin\Debug\partial lectur 9 form 2 معتصم سعيد محمد احمد.pdb
+C:\Users\USER\source\repos\partial lectur 9 form 2 معتصم سعيد محمد احمد\partial lectur 9 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lectur 9 form 2 معتصم سعيد محمد احمد.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\partial lectur 9 form 2 معتصم سعيد محمد احمد\partial lectur 9 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lectur 9 form 2 معتصم سعيد محمد احمد.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\partial lectur 9 form 2 معتصم سعيد محمد احمد\partial lectur 9 form 2 معتصم سعيد محمد احمد\obj\Debug\partial_lectur_9_form_2_معتصم_سعيد_محمد_احمد.Form1.resources
+C:\Users\USER\source\repos\partial lectur 9 form 2 معتصم سعيد محمد احمد\partial lectur 9 form 2 معتصم سعيد محمد احمد\obj\Debug\partial_lectur_9_form_2_معتصم_سعيد_محمد_احمد.Properties.Resources.resources
+C:\Users\USER\source\repos\partial lectur 9 form 2 معتصم سعيد محمد احمد\partial lectur 9 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lectur 9 form 2 معتصم سعيد محمد احمد.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\partial lectur 9 form 2 معتصم سعيد محمد احمد\partial lectur 9 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lectur 9 form 2 معتصم سعيد محمد احمد.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\partial lectur 9 form 2 معتصم سعيد محمد احمد\partial lectur 9 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lectur 9 form 2 معتصم سعيد محمد احمد.exe
+C:\Users\USER\source\repos\partial lectur 9 form 2 معتصم سعيد محمد احمد\partial lectur 9 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lectur 9 form 2 معتصم سعيد محمد احمد.pdb
+C:\Users\USER\source\repos\partial lectur 9 form 2 معتصم سعيد محمد احمد\partial lectur 9 form 2 معتصم سعيد محمد احمد\obj\Debug\partial_lectur_9_form_2_معتصم_سعيد_محمد_احمد.Form2.resources

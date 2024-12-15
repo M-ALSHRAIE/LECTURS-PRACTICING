@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "partial lecture 9 form  3    معتصم عبده حميد", "partial lecture 9 form  3    معتصم سعيد محمد احمد\partial lecture 9 form  3    معتصم عبده حميد.csproj", "{B16C26AF-442A-4D2E-A4D5-D639D3759E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B16C26AF-442A-4D2E-A4D5-D639D3759E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16C26AF-442A-4D2E-A4D5-D639D3759E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16C26AF-442A-4D2E-A4D5-D639D3759E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16C26AF-442A-4D2E-A4D5-D639D3759E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55E408D7-8773-4DD0-9E8F-F050720B60C1}
+	EndGlobalSection
+EndGlobal

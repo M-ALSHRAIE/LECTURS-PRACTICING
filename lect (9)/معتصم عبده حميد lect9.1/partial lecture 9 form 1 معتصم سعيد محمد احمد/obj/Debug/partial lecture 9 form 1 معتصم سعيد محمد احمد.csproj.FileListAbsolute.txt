@@ -1,0 +1,22 @@
+C:\Users\USER\source\repos\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\bin\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.exe.config
+C:\Users\USER\source\repos\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\bin\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.exe
+C:\Users\USER\source\repos\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\bin\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.pdb
+C:\Users\USER\source\repos\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\obj\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\obj\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_9_form_1_معتصم_سعيد_محمد_احمد.Form1.resources
+C:\Users\USER\source\repos\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_9_form_1_معتصم_سعيد_محمد_احمد.Properties.Resources.resources
+C:\Users\USER\source\repos\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\obj\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\obj\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\obj\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.exe
+C:\Users\USER\source\repos\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\obj\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.pdb
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\bin\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.exe.config
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\bin\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.exe
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\bin\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.pdb
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\obj\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.csproj.AssemblyReference.cache
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\obj\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_9_form_1_معتصم_سعيد_محمد_احمد.Form1.resources
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_9_form_1_معتصم_سعيد_محمد_احمد.Properties.Resources.resources
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\obj\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.csproj.GenerateResource.cache
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\obj\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\obj\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.exe
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 9 form 1 معتصم سعيد محمد احمد\partial lecture 9 form 1 معتصم سعيد محمد احمد\obj\Debug\partial lecture 9 form 1 معتصم سعيد محمد احمد.pdb
