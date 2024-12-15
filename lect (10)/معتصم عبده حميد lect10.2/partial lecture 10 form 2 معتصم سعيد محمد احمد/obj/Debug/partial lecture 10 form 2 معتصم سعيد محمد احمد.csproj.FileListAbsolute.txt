@@ -1,0 +1,26 @@
+C:\Users\USER\source\repos\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\bin\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.exe.config
+C:\Users\USER\source\repos\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\bin\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.exe
+C:\Users\USER\source\repos\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\bin\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.pdb
+C:\Users\USER\source\repos\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_10_form_2_معتصم_سعيد_محمد_احمد.MainForm.resources
+C:\Users\USER\source\repos\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_10_form_2_معتصم_سعيد_محمد_احمد.Properties.Resources.resources
+C:\Users\USER\source\repos\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.exe
+C:\Users\USER\source\repos\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.pdb
+C:\Users\USER\source\repos\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_10_form_2_معتصم_سعيد_محمد_احمد.Form2.resources
+C:\Users\USER\source\repos\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_10_form_2_معتصم_سعيد_محمد_احمد.Form3.resources
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\bin\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.exe.config
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\bin\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.exe
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\bin\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.pdb
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.csproj.AssemblyReference.cache
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_10_form_2_معتصم_سعيد_محمد_احمد.Form2.resources
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_10_form_2_معتصم_سعيد_محمد_احمد.Form3.resources
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_10_form_2_معتصم_سعيد_محمد_احمد.MainForm.resources
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_10_form_2_معتصم_سعيد_محمد_احمد.Properties.Resources.resources
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.csproj.GenerateResource.cache
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.exe
+C:\Users\USER\source\motasim saeed mohammed\partial lecture 10 form 2 معتصم سعيد محمد احمد\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.pdb

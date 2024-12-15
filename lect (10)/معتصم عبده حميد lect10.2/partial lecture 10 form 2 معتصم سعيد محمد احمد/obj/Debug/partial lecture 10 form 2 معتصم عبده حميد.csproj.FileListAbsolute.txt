@@ -1,0 +1,12 @@
+E:\c# prog\lect (10)\معتصم عبده حميد lect10.2\partial lecture 10 form 2 معتصم سعيد محمد احمد\bin\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.exe.config
+E:\c# prog\lect (10)\معتصم عبده حميد lect10.2\partial lecture 10 form 2 معتصم سعيد محمد احمد\bin\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.exe
+E:\c# prog\lect (10)\معتصم عبده حميد lect10.2\partial lecture 10 form 2 معتصم سعيد محمد احمد\bin\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.pdb
+E:\c# prog\lect (10)\معتصم عبده حميد lect10.2\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم عبده حميد.csprojAssemblyReference.cache
+E:\c# prog\lect (10)\معتصم عبده حميد lect10.2\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_10_form_2_معتصم_عبده_حميد_يحيى.Form2.resources
+E:\c# prog\lect (10)\معتصم عبده حميد lect10.2\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_10_form_2_معتصم_عبده_حميد_يحيى.Form3.resources
+E:\c# prog\lect (10)\معتصم عبده حميد lect10.2\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_10_form_2_معتصم_عبده_حميد_يحيى.MainForm.resources
+E:\c# prog\lect (10)\معتصم عبده حميد lect10.2\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial_lecture_10_form_2_معتصم_سعيد_محمد_احمد.Properties.Resources.resources
+E:\c# prog\lect (10)\معتصم عبده حميد lect10.2\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم عبده حميد.csproj.GenerateResource.cache
+E:\c# prog\lect (10)\معتصم عبده حميد lect10.2\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم عبده حميد.csproj.CoreCompileInputs.cache
+E:\c# prog\lect (10)\معتصم عبده حميد lect10.2\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.exe
+E:\c# prog\lect (10)\معتصم عبده حميد lect10.2\partial lecture 10 form 2 معتصم سعيد محمد احمد\obj\Debug\partial lecture 10 form 2 معتصم سعيد محمد احمد.pdb
